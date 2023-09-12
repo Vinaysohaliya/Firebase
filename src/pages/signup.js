@@ -40,3 +40,6 @@ function Page(params) {
 </div>);
 
 }
+
+
+export default Page;
